@@ -11,7 +11,7 @@ import Support from "./pages/Support";
 
 function App() {
   return (
-    <Router basename="/habit-capsule">
+    <Router basename="/habit-capsule-web">
       <div className="App">
         <header className="AppHeader">
           <div className="AppBrand">
