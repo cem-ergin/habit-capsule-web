@@ -6,7 +6,7 @@ const PrivacyPolicy = () => (
       <h1>Privacy Policy</h1>
       <p className="LegalPage-meta">Last Updated: January 9, 2026</p>
       <p className="LegalPage-subtitle">
-        This Privacy Policy explains how Custom Photo Collage (“the App”, “we”, “our”) handles user data, permissions,
+        This Privacy Policy explains how Habit Capsule (“the App”, “we”, “our”) handles user data, permissions,
         analytics, subscriptions, and third-party services.
       </p>
     </header>
@@ -14,17 +14,7 @@ const PrivacyPolicy = () => (
     <section>
       <h2>1. Information We Collect</h2>
       <h3>1.1 Personal Information</h3>
-      <p>We do not collect personal information such as your name, email address, phone number, or contact details.</p>
-
-      <h3>1.2 Photos and Media</h3>
-      <p>
-        The App requests access to your device’s photo gallery solely to allow you to select and use photos when creating
-        collages.
-      </p>
-      <p>
-        All photos and collages remain stored locally on your device and are never uploaded, transmitted, or stored on
-        any external server.
-      </p>
+      <p>We do not collect any personal information.</p>
 
       <h3>1.3 Automatically Collected Data</h3>
       <p>
@@ -65,7 +55,7 @@ const PrivacyPolicy = () => (
 
     <section>
       <h2>3. Data Security</h2>
-      <p>Your photos, collages, and saved content remain stored locally on your device.</p>
+      <p>Your data remains stored locally on your device.</p>
       <p>
         We apply reasonable technical and organizational measures to protect data against unauthorized access, loss, or
         misuse.
@@ -74,7 +64,6 @@ const PrivacyPolicy = () => (
 
     <section>
       <h2>4. Your Rights</h2>
-      <p>You may revoke photo gallery permissions at any time through your device settings.</p>
       <p>You can stop all analytics collection by uninstalling the App.</p>
       <p>When the App is uninstalled, all locally stored data is permanently deleted from your device.</p>
     </section>
@@ -125,7 +114,7 @@ const PrivacyPolicy = () => (
       <h2>8. Contact Us</h2>
       <p>
         If you have any questions about this Privacy Policy, please contact us at:{' '}
-        <a href="mailto:photo.custom.collage@outlook.com">photo.custom.collage@outlook.com</a>
+        <a href="mailto:cem-ergin@outlook.com">cem-ergin@outlook.com</a>
       </p>
     </section>
   </article>

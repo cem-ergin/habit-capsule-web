@@ -11,11 +11,11 @@ import Support from "./pages/Support";
 
 function App() {
   return (
-    <Router basename="/custom-photo-collage">
+    <Router basename="/habit-capsule">
       <div className="App">
         <header className="AppHeader">
           <div className="AppBrand">
-            <span className="AppBrand-highlight">Custom Photo Collage</span>
+            <span className="AppBrand-highlight">Habit Capsule</span>
           </div>
           <nav className="AppNav">
             <Link to="/privacy">Privacy Policy</Link>
